@@ -1,0 +1,10 @@
+/*
+Author: Eddie O'Con
+Assignment: escape-the-dungeon-cpp
+Description: Implement the following functionality:
+Introduction and game storyline.
+Game options using nested if-else statements and switch.
+Logical correctness in decision-making.
+Input validation to handle incorrect inputs.
+*/
+
